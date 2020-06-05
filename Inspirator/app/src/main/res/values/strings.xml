@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Inspirator</string>
+    <string-array name="data_menu">
+        <item>agung</item>
+        <item>kevin</item>
+        <item>aulion</item>
+        <item>ronaldo</item>
+        <item>gusdur</item>
+    </string-array>
+    <string-array name="data_deskripsi">
+        <item>Agung Hapsah merupakan Seorang Youtuber dengan style berbeda dari youtuber kebanyakan. Mengandalkan teknik sinematografi dan skill editing yang sangat luar biasa, tak heran video-video Agung selalu masuk kolom Trending Indonesia walau rutinitas uploadnya tidak sesering youtuber lain.</item>
+        <item>Kevin Anggara adalah seorang aktor, blogger, penulis dan selebritas YouTube Indonesia yang sebelumnya dikenal sebagai selebritas Instagram dengan nama pengguna KevinChocs.</item>
+        <item>Aulion adalah seorang youtuber dengan ciri khas konten berupa stop motion. Banyak pemuda Indonesia yang mengagumi dirinya karena dia begitu kreatif, tekun, dan pekerja keras</item>
+        <item>Cristiano Ronaldo merupakan seorang pemain sepak bola Portugal. Ia dapat berposisi sebagai sayap kiri atau kanan serta penyerang tengah. Saat ini ia bermain untuk tim Italia, Juventus dan untuk tim nasional Portugal.</item>
+        <item>Dr.(H.C.)K.H.Abdurrahman Wahid atau yang akrab disapa Gus Dur adalah tokoh Muslim Indonesia dan pemimpin politik yang menjadi Presiden Indonesia yang keempat dari tahun 1999 hingga 2001. Ia menggantikan Presiden B.J. Habibie setelah dipilih oleh Majelis Permusyawaratan Rakyat hasil Pemilu 1999.</item>
+    </string-array>
+    <array name="data_gambar">
+        <item>@drawable/agung</item>
+        <item>@drawable/kevin</item>
+        <item>@drawable/aulion</item>
+        <item>@drawable/ronaldo</item>
+        <item>@drawable/gusdur</item>
+    </array>
+</resources>
